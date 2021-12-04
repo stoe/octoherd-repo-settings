@@ -1,8 +1,8 @@
 {
   "name": "@stoe/octoherd-script-repo-settings",
   "type": "module",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "octoherd-script: Apply my default settings",
   "keywords": [
     "octohed-script"
   ],
