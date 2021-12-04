@@ -1,7 +1,7 @@
 {
   "name": "@stoe/octoherd-script-repo-settings",
   "type": "module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "octoherd-script: Apply my default settings",
   "keywords": [
     "octohed-script"
@@ -11,7 +11,7 @@
     "email": "stefan@stoelzle.me",
     "url": "https://github.com/stoe"
   },
-  "repository": "github:stoe/octoherd-script-repo-settings",
+  "repository": "https://github.com/stoe/octoherd-repo-settings",
   "license": "MIT",
   "engines": {
     "node": ">=14",
