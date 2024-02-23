@@ -31,7 +31,7 @@
     "@octoherd/cli": "^3.4.5"
   },
   "devDependencies": {
-    "@github/prettier-config": "^0.0.4",
+    "@github/prettier-config": "^0.0.6",
     "eslint": "^8.4.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-github": "^4.3.5",
